@@ -433,9 +433,9 @@ public class SecondActivity extends AppCompatActivity {
 
 ## OUTPUT:
 
-![](1.png)
-![](2.png)
-![](3.png)
+<img src="1.png" width="400">
+<img src="2.png" width="400">
+<img src="3.png" width="400">
 
 ## RESULT:
 
